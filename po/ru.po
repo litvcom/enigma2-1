@@ -967,7 +967,7 @@ msgid "Alternative services tuner priority"
 msgstr "Приоритет используемых тюнеров"
 
 msgid "Always ask"
-msgstr "Всегда спрашиват"
+msgstr "Всегда спрашивать"
 
 msgid "Always hide infobar"
 msgstr "Всегда скрывать инфобар"
