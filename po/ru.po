@@ -381,7 +381,7 @@ msgid "12V output."
 msgstr "12В Выход."
 
 msgid "13 V"
-msgstr "13 В"
+msgstr "13В"
 
 msgid "16:10"
 msgstr "16:10"
@@ -402,7 +402,7 @@ msgid "16:9 always"
 msgstr "16:9 всегда"
 
 msgid "18 V"
-msgstr "18 В"
+msgstr "18В"
 
 msgid "1X"
 msgstr "1X"
@@ -788,16 +788,16 @@ msgid "Add provider"
 msgstr "Добавить поставщика"
 
 msgid "Add recording (enter recording duration)"
-msgstr "Ввести длительность записи"
+msgstr "Запись (Введите длительность записи)"
 
 msgid "Add recording (enter recording endtime)"
-msgstr "Ввести время окончания"
+msgstr "Запись (Введите время окончания)"
 
 msgid "Add recording (indefinitely)"
-msgstr "Запись без определения окончания)"
+msgstr "Запись (Конец не определён)"
 
 msgid "Add recording (stop after current event)"
-msgstr "Записать текущего события"
+msgstr "Запись (Стоп после текущего события)"
 
 msgid "Add service"
 msgstr "Добавить сервис"
@@ -1160,7 +1160,7 @@ msgid "Audio language selection 4"
 msgstr "Выбор языка аудио 4"
 
 msgid "Audio options..."
-msgstr "Настройки аудио..."
+msgstr "Настройки аудио"
 
 msgid "Audio track (%s) format"
 msgstr "Формат звуковой дорожки (%s)"
@@ -1223,7 +1223,7 @@ msgid "Automatic"
 msgstr "Автоматически"
 
 msgid "Automatic Scan"
-msgstr "Автопоиск"
+msgstr "Автоматический поиск"
 
 msgid "Automatic refresh"
 msgstr "Обновлять автоматически"
