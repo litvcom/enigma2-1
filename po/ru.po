@@ -8124,25 +8124,25 @@ msgid "Sleep delay"
 msgstr "Задержка перед выключением"
 
 msgid "Slide drop"
-msgstr "Слайд-шоу вниз"
+msgstr "Слайд вниз"
 
 msgid "Slide from left"
-msgstr "Слайд-шоу влево"
+msgstr "Слайд влево"
 
 msgid "Slide left to right"
-msgstr "Слайд-шоу слева направо"
+msgstr "Слайд слева направо"
 
 msgid "Slide picture in loop"
 msgstr "Циклический показ слайдов"
 
 msgid "Slide right to left"
-msgstr "Слайд-шоу справа налево"
+msgstr "Слайд справа налево"
 
 msgid "Slide show interval (sec.)"
 msgstr "Интервал слайдшоу (сек.)"
 
 msgid "Slide top to bottom"
-msgstr "Слайд-шоу сверху вниз"
+msgstr "Слайд сверху вниз"
 
 msgid "Slot %d"
 msgstr "Слот %d"
