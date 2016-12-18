@@ -2024,10 +2024,10 @@ msgid "Configure the behavior when movie playback is manually stopped."
 msgstr "Настройка действия при остановке воспроизведения вручную."
 
 msgid "Configure the behavior when movie playback is started."
-msgstr "Укажите, что делать при начале воспроизведения."
+msgstr "Настройка действия при начале воспроизведения."
 
 msgid "Configure the behavior when reaching the end of a movie, during movie playback."
-msgstr "Укажите, что делать при окончании воспроизведения."
+msgstr "Настройка действия при окончании воспроизведения."
 
 msgid ""
 "Configure the border width of the subtitles. The dark border makes the subtitles easier to "
