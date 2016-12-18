@@ -2763,7 +2763,7 @@ msgid "Deselect"
 msgstr "Снять выбор"
 
 msgid "Details for plugin: "
-msgstr "Подробнее о плагинеn: "
+msgstr "Подробнее о плагине: "
 
 msgid "Detected devices:"
 msgstr "Найдены устройства:"
