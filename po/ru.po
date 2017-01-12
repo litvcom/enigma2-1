@@ -1168,6 +1168,9 @@ msgstr "Формат звуковой дорожки (%s)"
 msgid "Audio track (%s) language"
 msgstr "Язык звуковой дорожки (%s)"
 
+msgid "Australia"
+msgstr "Австралия"
+
 msgid "Author: "
 msgstr "Автор: "
 
@@ -1179,6 +1182,9 @@ msgstr "Автоматически"
 
 msgid "AutoScan"
 msgstr "Автоскан"
+
+msgid "Auto Detect"
+msgstr "Автоопределение"
 
 msgid "Auto Deep Standby"
 msgstr "Автоматическое выключение"
@@ -1758,6 +1764,12 @@ msgstr "Чипсет:\tBCM%s\n"
 
 msgid "Chipset: BCM%s"
 msgstr "Чипсет: BCM%s"
+
+msgid "Choose a country scheme for decoding rating information in EPG events."
+msgstr "Выберите схему страны для декодирования информации рейтинга в событиях EPG."
+
+msgid "Choose a country scheme for decoding genre information in EPG events."
+msgstr "Выберите схему страны для декодирования информации жанра в событиях EPG."
 
 msgid "Choose Bouquet"
 msgstr "Выберите фаворит"
@@ -2397,6 +2409,12 @@ msgstr "Копирование файлов"
 
 msgid "Cores:\t%s\n"
 msgstr "Ядра:\t%s\n"
+
+msgid "Country for EPG event rating information"
+msgstr "Страна для EPG инф. событий (рейтинг)"
+
+msgid "Country for EPG event genre information"
+msgstr "Страна для EPG инф. событий (жанр)"
 
 msgid "Could not find installed channel list."
 msgstr "Не удалось найти установленный список каналов."
@@ -3253,6 +3271,9 @@ msgstr "Включить MHW EPG"
 msgid "Enable Netmed EPG"
 msgstr "Включить Netmed EPG"
 
+msgid "Enable to highlight events that are currently in progress."
+msgstr "Включить для выделения событий в настоящем времени."
+
 msgid "Enable ViaSat EPG"
 msgstr "Включить ViaSat EPG"
 
@@ -3848,6 +3869,9 @@ msgstr "Общая задержка PCM"
 msgid "General settings"
 msgstr "Общие настройки"
 
+msgid "Generic"
+msgstr "Общие"
+
 msgid "Genre"
 msgstr "Жанр"
 
@@ -4045,6 +4069,9 @@ msgstr "Инфо об иерархии"
 
 msgid "High bitrate support"
 msgstr "Поддержка высокого битрейта"
+
+msgid "Highlight current events"
+msgstr "Выделить текущие события"
 
 msgid "History back"
 msgstr "Назад по истории"
@@ -4541,6 +4568,9 @@ msgid "Keyboard map"
 msgstr "Раскладка клавиатуры"
 
 msgid "Keyboard setup"
+msgstr "Настройки клавиатуры"
+
+msgid "Keyboard settings"
 msgstr "Настройки клавиатуры"
 
 msgid "LAN adapter"
