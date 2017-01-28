@@ -3378,6 +3378,9 @@ msgstr "Изменения Enigma2"
 msgid "Enigma2 skin selector"
 msgstr "Селектор скинов Enigma2"
 
+msgid "Enter a new password"
+msgstr "Введите новый пароль"
+
 msgid "Enter main menu..."
 msgstr "Войти в главное меню..."
 
@@ -5884,6 +5887,9 @@ msgstr "Пароль"
 msgid "Password (httpwd)"
 msgstr "Пароль (httpwd)"
 
+msgid "Password setup"
+msgstr "Настройки пароля"
+
 msgid "Password:"
 msgstr "Пароль:"
 
@@ -6616,6 +6622,9 @@ msgstr "Радио"
 
 msgid "Random"
 msgstr "Случайно"
+
+msgid "Random Password"
+msgstr "Случайный пароль"
 
 msgid "Rating defined by broadcaster - %d"
 msgstr "Оценка от провайдера - %d"
@@ -7599,6 +7608,9 @@ msgstr "Установить интерфейс по умолчанию"
 
 msgid "Set limits"
 msgstr "Набор ограничений"
+
+msgid "Set Password"
+msgstr "Установить пароль"
 
 msgid "Set startup service"
 msgstr "Назначить стартовым каналом"
