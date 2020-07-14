@@ -11427,7 +11427,7 @@ msgid "Sun"
 msgstr "Вс"
 
 msgid "Sunday"
-msgstr "Воскресение"
+msgstr "Воскресенье"
 
 msgid "Support at"
 msgstr "Поддержка"
@@ -15297,3 +15297,7 @@ msgstr "Переключить и записать"
 
 msgid "zapped"
 msgstr "Переключено"
+
+# Add
+msgid "ON NOW"
+msgstr "СЕЙЧАС"
